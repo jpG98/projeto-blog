@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conteudo>
+    <postagem codigo="1">
+        <titulo> noticia 1 </titulo>
+        <corpo> 
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
+        </corpo> 
+        <imagen>hulk.jpg</imagen>
+    </postagem>
+    <postagem codigo="2">
+        <titulo> noticia 2 </titulo>
+        <corpo> 
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
+        </corpo> 
+        <imagen>mm.png</imagen>
+    </postagem>
+    <postagem codigo="3">
+        <titulo> noticia 3 </titulo>
+        <corpo> 
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
+        </corpo> 
+        <imagen>wolvwrine.jpg</imagen>
+    </postagem>
+</conteudo>
