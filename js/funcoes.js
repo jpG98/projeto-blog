@@ -6,5 +6,5 @@ xmlhttp.open("GET","xml/conteudo.xml",false);
 xmlhttp.send();
 //Envia uma resposta do tipo XML
 xmldoc = xmlhttp.responseXMl;
-
+//Cria um array 
 x = xmldoc.getElementsBytagName("postagem");
