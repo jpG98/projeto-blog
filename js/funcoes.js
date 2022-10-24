@@ -6,5 +6,17 @@ xmlhttp.open("GET","xml/conteudo.xml",false);
 xmlhttp.send();
 //Envia uma resposta do tipo XML
 xmldoc = xmlhttp.responseXMl;
-//Cria um array 
+//Cria um array a partir da quantidade de postagems
 x = xmldoc.getElementsBytagName("postagem");
+
+function funcaoConteudo(){
+    for(i=1; i<=10; i++){
+        document.write ( 
+            "<tr>"+ 
+                "<td> A </td>"+
+                "<td> B </td>"+
+                "<td> C </td>"+
+                "<td> D </td>"+
+            "<tr>");
+    }
+}
