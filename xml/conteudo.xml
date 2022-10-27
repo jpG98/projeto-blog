@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <conteudo>
     <postagem codigo="150">
-        <titulo> noticia 1 </titulo>
-            <corpo> 
-                Primeira noticia Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
-            </corpo> 
-        <imagen>hulk.jpg</imagen>
+        <titulo>Notícia Um</titulo>
+        <corpo>Primeira notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ayd modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>hulk.jpg</imagem>
     </postagem>
     <postagem codigo="151">
-        <titulo> noticia 2 </titulo>
-            <corpo> 
-                Segunta noticia Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
-            </corpo> 
-        <imagen>mm.png</imagen>
+        <titulo>Notícia Dois</titulo>
+        <corpo>Segunda notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ad modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>mm.png</imagem>
     </postagem>
     <postagem codigo="152">
-        <titulo> noticia 3 </titulo>
-            <corpo> 
-                Terceira noticia Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, hic ab! Numquam quisquam non quam tenetur consequatur, eveniet alias nemo ea libero minus repellendus explicabo ut delectus consequuntur quod veritatis. Illum facere minus consequatur praesentium ullam eius quis aliquam vitae iusto amet, laudantium ducimus ratione aspernatur necessitatibus saepe tempora ea fuga accusamus quas pariatur exercitationem magni placeat aperiam corrupti. Impedit possimus aliquam incidunt amet molestiae quaerat! Veniam reiciendis soluta corrupti perferendis voluptate aut nulla quisquam quibusdam porro, iste quidem, voluptatibus illo vel impedit deserunt. Quae, error reprehenderit atque aliquam vel assumenda accusantium magni odio doloremque tempora vitae deleniti, quas 
-            </corpo> 
-        <imagen>wolvwrine.jpg</imagen>
+        <titulo>Notícia Três</titulo>
+        <corpo>Terceira notícia Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit tempora illo tenetur autem ratione, quos architecto at ut rem libero recusandae aliquid excepturi laborum officiis esse sapiente ad modi exercitationem, voluptatem dolorum. Error eum laboriosam perferendis possimus iste similique, sit autem omnis magnam eaque alias assumenda inventore obcaecati quasi quas!</corpo>
+        <imagem>wolverine.jpg</imagem>
     </postagem>
 </conteudo>
